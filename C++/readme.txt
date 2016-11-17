@@ -2,7 +2,7 @@ Custom Set:
 
 Constructed custom class "Kset", which supports standart methods.
 Used design patterns such as Visitor, MVC.
-Created Windows Application to work with it.
+Created Windows application to work with it.
 
 Find value of expression:
 
